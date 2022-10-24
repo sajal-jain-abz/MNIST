@@ -1,5 +1,5 @@
 on:
-  github:
+  push:
     branches:
       only: main
 
